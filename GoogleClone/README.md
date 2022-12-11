@@ -15,6 +15,7 @@ Learned with Scrimba Frontend course
     <li>3 ways of centering</li>
     <li>Flexbox</li>
 </ul>
+<img width="509" alt="Screenshot-GoogleClone" src="https://user-images.githubusercontent.com/38401274/206907767-b1729217-44f4-4912-af9c-abc527750cda.png">
 
 
 
