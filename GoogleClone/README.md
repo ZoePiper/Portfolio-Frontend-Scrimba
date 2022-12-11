@@ -1,13 +1,23 @@
-# co87d46689d640c87caec96fa
+# 1. GoogleClone
 
-Quick start:
+Frontend CSS Google clone. Search engine does not work.
+Learned with Scrimba Frontend course
 
-```
-$ npm install
-$ npm start
-````
+<b>What have I learned?</b>
+<ul>
+  <li>CSS syntax </li>
+    <li>Inline vs Block</li>
+  <li>Margins</li>
+    <li>Padding</li>
+    <li>Borders</li>
+    <li>Divs</li>
+    <li>Classes</li>
+    <li>3 ways of centering</li>
+    <li>Flexbox</li>
+</ul>
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
