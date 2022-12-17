@@ -1,13 +1,24 @@
-# coffd4a10978d9107780a04db
+# 3. New Years Wishes
 
-Quick start:
+Frontend CSS Html New Years Wishes is a site wher you can hover over de images of presents en get a gif when you are on it.
+</br><a href="https://stalwart-daffodil-f81661.netlify.app/">See Site</a> 
 
-```
-$ npm install
-$ npm start
-````
+Learned with Scrimba Frontend course
 
-Head over to https://vitejs.dev/ to learn more about using vite
+<b>What have I learned?</b>
+<ul>
+  <li>Align-Item</li>
+    <li>Hover sudo class</li>
+  <li>Create gradient</li>
+    <li>Flip flexbox direction</li>
+    <li>Group selecter</li>
+</ul>
+
+
+<img width="628" alt="Screenshot NewYearsWishes" src="https://user-images.githubusercontent.com/38401274/208244360-de2781c6-9ba6-4327-976a-32a2f2cb3010.png">
+
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
