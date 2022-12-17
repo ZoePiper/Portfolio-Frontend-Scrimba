@@ -13,6 +13,7 @@ Learned with Scrimba Frontend course
     <li>Web-safe fonts</li>
     <li>Color palettes</li>
 </ul>
+<img width="497" alt="Screenshot Businesscard" src="https://user-images.githubusercontent.com/38401274/208245093-64516f6f-c002-4569-907f-cdcdb6e98211.png">
 
 ## About Scrimba
 
