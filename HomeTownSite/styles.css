@@ -1,0 +1,155 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
+.hero{
+    background-image: url("images/Curacao-image.png");
+    background-size: cover; 
+    /* margin-bottom: -35px;  */
+    color:#4A422A;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#title{
+    background:#FAFEDE;
+    color: #6792D1;
+    font-family: 'Slabo 13px', serif;
+    font-size: 3rem;
+    margin: 40px 225px 20px;
+    padding: 15px 32px;
+    border-radius: 10px;
+    min-width: 270px;
+}
+
+#subtext{
+    background:#4A422A;
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 0px 154px 30px;
+    padding: 15px 32px;
+    border-radius: 10px;  
+    width: 412px;
+}
+
+h3{
+    color: #01B4B1;
+    font-family: 'Slabo 13px', serif;
+    font-size: 32px ;
+    padding:25px;
+}
+
+.activities{
+background: #DEFFFE;
+margin-bottom:20px;
+padding: 5px 0px 25px 0px;
+
+}
+.activities_row1{
+    background: #DEFFFE;
+    margin: 25px;    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
+.activities_row2{
+    background: #DEFFFE;
+    margin: 25px;   
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around; 
+}
+
+.img_activity{
+      border: 5px solid #01B4B1;
+    border-radius: 100px
+}
+
+.textalign_activity{
+       width: 250px;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #01B4B1;
+}
+
+p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #4A422A;
+}
+.c1{
+border: 1px dotted red;
+
+}
+.guide{
+    margin: 50px;
+    
+}
+
+.content_guide{
+background: #6792D1;
+box-shadow: -2px 6px 8px #1D3557;
+border-radius: 10px;
+width: 450px; 
+    margin: auto;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#img_guide{
+width: auto;
+height: auto;
+border-radius: 10px;
+}
+.text_guide{
+padding: 0px 15px 0px;
+}
+.profile_text{
+            color: white;
+}
+
+#title_guide{
+font-size: 23px;
+margin:0px;
+padding: 0px
+}
+#subtext_guide{
+    font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #F9F9FA;
+}
