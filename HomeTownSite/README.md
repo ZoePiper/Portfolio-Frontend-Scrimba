@@ -1,13 +1,21 @@
-# coe2c4f67adc7cdd5d762e553
+# 4. Hometown Site
 
-Quick start:
+This is a Solo Project.
+Hometown Site showing a hero image, activities of the country and the author.
+This is the last project of module 2. Made in HTML and CSS
+You can find the site on<a href="https://zingy-empanada-fbe5a0.netlify.app"> Click here <a>
+Learned with Scrimba Frontend course
 
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
+<b>What have I learned?</b>
+<ul>
+  <li>Hero image</li>
+    <li>Practice Flex box</li>
+  <li>Margins</li>
+    <li>Padding</li>
+    <li>Borders</li>
+    <li>Divs</li>
+    <li>Classes</li>
+</ul>
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
