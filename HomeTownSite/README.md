@@ -16,6 +16,9 @@ Learned with Scrimba Frontend course
     <li>Divs</li>
     <li>Classes</li>
 </ul>
+<img width="514" alt="Screenshot_HometownSite" src="https://user-images.githubusercontent.com/38401274/209581834-ed3011da-5c7b-43bc-9b67-9e446bcc372a.png">
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
