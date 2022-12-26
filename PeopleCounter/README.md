@@ -33,6 +33,9 @@ Nice to have when I will improve this app:
     <li>console.log</li>
 
 </ul>
+<img width="387" alt="Screenshot_PeopleCounter" src="https://user-images.githubusercontent.com/38401274/209581771-6d30da9a-47be-41df-a6ed-efea79b0db3e.png">
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
