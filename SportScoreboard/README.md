@@ -1,13 +1,23 @@
-# co96d47fa96221679634667eb
+# 6. Sport Scoreboard
 
-Quick start:
+This is a project build to learn JavaScript. Made by myself
+Click <a href="https://zingy-bavarois-025ec2.netlify.app"> here </a>to see the live app.
 
-```
-$ npm install
-$ npm start
-````
+You can keep score with different soorts of sports. Adding 1,2 or 3 points tothe home or guest team.
 
-Head over to https://vitejs.dev/ to learn more about using vite
+
+<b>What have I learned?</b>
+<ul>
+  <li>JavaScript</li>
+  <li>DOM</li>
+    <li>increment</li>
+  <li>margins</li>
+    <li>flexbox</li>
+
+</ul>
+<img width="553" alt="Screenshot SportScoreboard" src="https://user-images.githubusercontent.com/38401274/209582797-26e4acbc-40d2-43f6-8de3-33f84d4dcf69.png">
+
+
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
