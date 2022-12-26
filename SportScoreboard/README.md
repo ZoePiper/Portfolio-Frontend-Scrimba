@@ -1,7 +1,7 @@
 # 6. Sport Scoreboard
 
 This is a project build to learn JavaScript. Made by myself
-Click <a href="https://zingy-bavarois-025ec2.netlify.app"> here </a>to see the live app.
+Click <a href="https://regal-banoffee-f796f2.netlify.app"> here </a>to see the live app.
 
 You can keep score with different soorts of sports. Adding 1,2 or 3 points tothe home or guest team.
 
