@@ -4,7 +4,7 @@
     An app where to can fill in your to do text. This will displace under each other. You can cross them off when you are done or delete them with your richt mouse click. This is a desktop version.
 
 ## Live Project
-Click <a href=""> here </a>to see the live app.
+Click <a href="54-todo.netlify.app"> here </a>to see the live app.
 
 
 
