@@ -1,6 +1,6 @@
 # 99. Mangata and Gallo
 
-## Client background / Project discription 
+## Project discription 
     
 Mangata and Gallo is a jewelry store that specializes in special occasions like engagements, weddings and anniversaries. The jewelry company primarily operates online and has a small storefront in Austin, Texas with an atelier attached for browsing. Mangata & Gallo's selection of jewelry is known for its high-quality and classic look. The owner, an Austin local, is well known for her jewelry designs.  
 
@@ -14,32 +14,44 @@ Click <a href=""> here </a>to see the live app.
 <img width="553" alt="Screenshot SportScoreboard" src="/Users/zoepiper/Documents/Front-end/Space-site/image/Screenshot Space-site.png">
     
 ## Design problem. 
-The next step is to explain the client's design problem in simple terms. This section should help the reader understand why the client hired you in the first place.
+Using your new knowledge of HTML and CSS you need to create a semantic structure with a header, main content and footer. Decide between a grid or flexbox for your layout. The client’s logo needs to be in the header and the main content needs to have a large promotional banner and three columns with text and images below it. The footer should have two columns. The first column must contain a smaller version of the logo and the second column should have copywriting information. 
 
-## Constraints. 
-Tell the reader if you were working with a tight deadline or a limited budget.
+In terms of styling, you should use your creativity to create the appropriate look and feel to capture the attention of the client’s target audience. You should use your knowledge about CSS selectors and effects to create the appropriate intentional engagement that would serve your client best.
 
 ## Solution. 
-Before you dive into a complete description of the project, provide a short description of the solution to the client's problem.
+Scaling and rotating the cards slightly when hoovering over the images
+.card img:hover {
+      transform: rotate(2deg) scale(108%);
+      transition: transform 0.5s;
+      
+making cards responsive. Add this code to the container that wraps all the cards
+ .cardgroup {
+      display: flex;
+      gap: 20px;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+  }
 
 ## Design process. 
-Walk potential clients through your design process. Provide as much context as possible to explain your decisions.
+This was a final project for Coursera Frontend course from Meta (HTML & CSS)
+Source: https://www.coursera.org/learn/html-and-css-in-depth/home/week/3
 
 ##Results. 
-Now, tell readers how your design helped the client. Did it solve the problem it was supposed to solve?
+It's a nice home page for a juwler. Making a website dynamic must be in a very subtle way or it becomes a irritating gimic. I'll have to look into this more.
+Images really finishes a website
 
-##Conclusion. 
-Summarize the main points of the case study. What have you learned?
-
+##What's next 
+The movement of the card be be subtler or taken out.
+Fill the rest of the pages.
+Change the flexbox so it is responsive.
 
 ## What have I learned?
 <ul>
-  <li>Background images</li>
-  <li>Webpformat</li>
-    <li>Google Fonts</li>
-  <li>The span tags</li>
-    <li>Id ans utility classes</li>
-    <li> text shadows</li>
+  <li>CSS transform</li>
+  <li>CSS transition</li>
+    <li>Flexbox cards responsive</li>
+  <li>Grid</li>
+
 
 </ul>
 

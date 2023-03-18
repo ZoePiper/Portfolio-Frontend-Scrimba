@@ -111,6 +111,12 @@
       text-align: center;
   }
 
+  .cardgroup {
+      display: flex;
+      gap: 20px;
+      justify-content: space-evenly;
+      flex-wrap: wrap;
+  }
 
   .card {
       margin: 50px, auto;
