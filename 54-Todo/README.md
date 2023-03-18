@@ -9,7 +9,7 @@ Click <a href="54-todo.netlify.app"> here </a>to see the live app.
 
 
 ## Visual
-<img width="553" alt="Screenshot SportScoreboard" src="/Users/zoepiper/Documents/Front-end/Space-site/image/Screenshot Space-site.png">
+<img width="553" alt="Screenshot 54-todo.netlify.app.png">
     
 ## Design problem. 
 When filling everything in your content vanishes after refreshing
