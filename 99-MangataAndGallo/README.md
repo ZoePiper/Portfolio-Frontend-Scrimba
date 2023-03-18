@@ -11,8 +11,8 @@ Click <a href="99-mangataandgallo.netlify.app"> here </a>to see the live app.
 
 
 ## Visual
-<img width="553" alt="Screenshot SportScoreboard" src="/Users/zoepiper/Documents/Front-end/Space-site/image/Screenshot Space-site.png">
-    
+<img width="533" alt="Screenshot 99-mangataandgallo" src="https://user-images.githubusercontent.com/38401274/226109596-98908483-8eb3-4e4d-9502-a835fca9c3d9.png">
+
 ## Design problem. 
 Using your new knowledge of HTML and CSS you need to create a semantic structure with a header, main content and footer. Decide between a grid or flexbox for your layout. The client’s logo needs to be in the header and the main content needs to have a large promotional banner and three columns with text and images below it. The footer should have two columns. The first column must contain a smaller version of the logo and the second column should have copywriting information. 
 
