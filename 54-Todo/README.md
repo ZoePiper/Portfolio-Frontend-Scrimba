@@ -9,7 +9,7 @@ Click <a href="54-todo.netlify.app"> here </a>to see the live app.
 
 
 ## Visual
-<img width="1068" alt="Screenshot 54-todo netlify app" src="https://user-images.githubusercontent.com/38401274/226109516-054dee53-375d-4723-b669-e07654f7cab8.png">
+<img width="533" alt="Screenshot 54-todo netlify app" src="https://user-images.githubusercontent.com/38401274/226109516-054dee53-375d-4723-b669-e07654f7cab8.png">
 
     
 ## Design problem. 
