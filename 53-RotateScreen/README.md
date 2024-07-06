@@ -9,7 +9,7 @@ Click <a href="https://lively-caramel-de72b4.netlify.app"> here </a>to see the l
 
 
 ## Visual
-<img width="553" alt="Screenshot 53-RotateScreen" src="/Users/zoepiper/Documents/Frontend/53-RotateScreen/Screenshot_RotateScreen_Open.png">
+<img width="553" alt="Screenshot 53-RotateScreen" src="https://github.com/ZoePiper/Portfolio-Frontend/blob/main/53-RotateScreen/Screenshot_RotateScreen_Dicht.png?raw=true">
 
 <img width="553" alt="Screenshot 53-RotateScreen" src="/Users/zoepiper/Documents/Frontend/53-RotateScreen/Screenshot_RotateScreen_Dicht.png">    
 
