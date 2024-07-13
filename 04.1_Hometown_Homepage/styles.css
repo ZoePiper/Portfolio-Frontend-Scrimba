@@ -1,0 +1,109 @@
+/**
+Walnut brown: #5b574f
+french gray: #bbc7d9
+night: #111315;
+charoal: #4c5462;
+taupgray: #949496;
+
+
+
+*/
+
+.border {
+    border: 2px solid purple;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Open Sans", sans-serif;
+    color: #111315;
+}
+
+img {
+    width: 100px;
+}
+
+.hero {
+    background-image: url("images/mol.jpg");
+    height: 500px;
+    padding: 80px;
+    color: white;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center
+}
+
+#hero-title {
+    background-color: #4c5462;
+    padding: 10px 20px;
+}
+
+#hero-subtitle {
+    background-color: #bbc7d9;
+    padding: 5px 20px;
+}
+
+.activity {
+    background-color: #bbc7d9;
+    margin: 0%;
+    padding: 25px;
+}
+
+#activity-title {
+    <<<<<<<<<<<<<< ✨ Codeium Command 🌟>>>>>>>>>>>>>>>>+/* Set the font weight to 800 (bold) */
+    +/* Increasing the font weight makes the text appear more prominent */
+    +/* This is done to make the title stand out more */
+    +font-weight: 800;
+    - font-weight: 800;
+    <<<<<<< 1179ddd5-56e4-4b10-b018-cf72828810a1>>>>>>>
+}
+
+.activity-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.activity-card {
+    width: 300px;
+    text-align: center;
+    padding: 0 20px;
+}
+
+.activity-img {
+    width: 95px;
+    height: 90px;
+    border-radius: 50px;
+    border: 5px dotted #949496;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.guide {
+    width: 500px;
+    padding: 10px;
+    background-color: #949496;
+    color: white;
+    display: block;
+    margin: 50px auto 50px auto;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.guide-img {
+    width: 95px;
+    height: 75px;
+    border-radius: 50px;
+    border: 2px solid #4c5462;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.guide-text {
+    padding: 10px;
+}
