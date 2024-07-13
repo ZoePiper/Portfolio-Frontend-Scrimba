@@ -21,7 +21,7 @@ Learned with Scrimba Frontend course
     <li>Divs</li>
     <li>Classes</li>
 </ul>
-<img width="514" alt="Screenshot_HometownSite versie 2" src="https://user-images.githubusercontent.com/38401274/209581834-ed3011da-5c7b-43bc-9b67-9e446bcc372a.png">
+<img width="514" alt="Screenshot_HometownSite versie 2" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/04.1_Hometown_Homepage/images/Best%20site.png?raw=true">
 
 
 ## About Scrimba
