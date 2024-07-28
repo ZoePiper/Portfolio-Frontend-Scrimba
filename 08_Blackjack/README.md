@@ -22,7 +22,8 @@ Learned with Scrimba Frontend course
 
 The Blackjack green have a winning function in it. When you have Blackjack then 20 dollars are added to player 1.
 
-<img width="514" alt="Blackjack Green" src="https://user-images.githubusercontent.com/38401274/209581834-ed3011da-5c7b-43bc-9b67-9e446bcc372a.png">
+<img width="514" alt="Blackjack Green" src="https://user-images.githubusercontent.com/38401274/209581834-ed3011da-5c7b-43bc-9b67-9e446bcc372a.png)
+">
 <img width="514" alt="Blackjack Green" src="https://user-images.githubusercontent.com/38401274/209581834-ed3011da-5c7b-43bc-9b67-9e446bcc372a.png">
 
 ## About Scrimba
