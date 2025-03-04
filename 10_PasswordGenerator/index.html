@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+        integrity="sha512-SzlrxWUlpfuzQ+pcUCosxcglQRNAq/DZjVsC0lE40xsADsfeQoEypE+enwcOiGjk/bSuGGKHEyjSoQ1zVisanQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Project</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="scripts.js"></script>
+    <script src="https://kit.fontawesome.com/0f7a85e7ae.js" crossorigin="anonymous"></script>
+
+
+</head>
+
+<body>
+    <div class="card">
+        <h1>Generate a </br>
+            <span class="highlight"> random password</span>
+        </h1>
+        <p>Never use an insecure password again.</p>
+        <button id="btn" , onclick="generatePassword()">Generate passwords</button>
+        <hr id="line">
+        <div class="container">
+
+            <div class="passwordSquare">
+                <input type="text" class="passwordText" id="passwordone" value="-" readonly>
+                <button id="copyIcon1" class="copy-btn fa-solid fa-copy">
+                </button>
+
+                <input type="text" class="passwordText" id="passwordtwo" value="-" readonly>
+                <button id="copyIcon2" class="copy-btn fa-solid fa-copy">
+                </button>
+            </div>
+
+
+            <!-- 
+        
+            <div class="passwordSquare">
+                <p class="passwordText" id="passwordtwo">"Click to get password"</p>
+            </div>
+            <div>
+                <button id="copy" , onclick="copyPassword()">Copy</button>
+            </div> -->
+
+        </div>
+    </div>
+
+</body>
+
+</html>

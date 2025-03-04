@@ -1,0 +1,246 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/Montserrat-Regular.ttf);
+}
+
+:root {
+    --var-back: #ebebeb;
+    --var-theme: #1a99ee;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    font-family: "Montserrat";
+}
+
+body {
+    background-color: var(--var-back);
+
+}
+
+.border {
+    border: 1px dashed rgb(208, 33, 33);
+}
+
+.container {
+    position: absolute;
+    width: 80vw;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+
+}
+
+.box {
+
+    width: 28vmin;
+    height: 28vmin;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+    font-size: 18px;
+    border-radius: 0.5em;
+    -webkit-border-radius: 0.5em;
+    -moz-border-radius: 0.5em;
+    -o-border-radius: 0.5em;
+    -ms-border-radius: 0.5em;
+    background-color: white;
+
+}
+
+i {
+    color: var(--var-theme);
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+span.num {
+    color: black;
+    display: grid;
+    place-items: center;
+    font-weight: 600;
+    font-size: 2.8em;
+}
+
+span.text {
+    color: black;
+    font-size: 1em;
+    text-align: center;
+    padding: 0.7em 0;
+    font-weight: 400;
+    line-height: 0;
+}
+
+@media screen and (max-width:1024px) {
+    .container {
+        width: 85vw;
+    }
+
+    .box {
+        height: 26vmin;
+        width: 26vmin;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .container {
+        width: 90vw;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .box {
+        height: 30vmin;
+        width: calc(50% - 40px);
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .container {
+        gap: 15px;
+    }
+
+    .box {
+        height: 25vmin;
+        width: 100%;
+        font-size: 8px;
+    }
+} */
+@font-face {
+    font-family: Montserrat;
+    src: url(./fonts/Montserrat-Regular.ttf);
+}
+
+:root {
+    --var-back: #ebebeb;
+    --var-theme: #cc0000;
+    --var-secondary: #404040;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.border {
+    border: 1px dashed blue;
+}
+
+body {
+    background-color: var(--var-back);
+
+}
+
+.container {
+    position: absolute;
+    width: 80vw;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.box {
+    width: 28vmin;
+    height: 28vmin;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 1em 0;
+    position: relative;
+    font-size: 18px;
+
+
+}
+
+#circle1 {
+    background-image: url("https://media.istockphoto.com/id/675804830/nl/foto/beige-hamster.jpg?s=612x612&w=0&k=20&c=4NbwuIX-bJ_CCxx4Zlb8_u5cFMykpYX6FS2mMQ04WEA=");
+    display: flex;
+    justify-content: flex-start;
+}
+
+i {
+    color: var(--var-secondary);
+    font-size: 2.5em;
+    text-align: center;
+
+}
+
+.count {
+    color: var(--var-theme);
+    display: grid;
+    place-items: center;
+    font-weight: 600;
+    font-size: 2.8em;
+}
+
+span.text {
+    color: black;
+    font-size: 1em;
+    text-align: center;
+    pad: 0.7em 0;
+    font-weight: 400;
+    line-height: 0;
+}
+
+@media screen and (max-width:1024px) {
+    .container {
+        width: 85vw;
+    }
+
+    .box {
+        height: 26vmin;
+        width: 26vmin;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 90vw;
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+
+    .box {
+        width: 30vmin;
+        height: 30vmin;
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .container {
+        gap: 15px;
+    }
+
+    .box {
+        width: 15vmax;
+        height: 15vmax;
+        font-size: 8px;
+    }
+
+
+}
