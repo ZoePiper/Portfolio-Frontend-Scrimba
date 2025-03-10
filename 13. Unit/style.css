@@ -1,0 +1,139 @@
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Roboto:wght@400;700&display=swap');
+
+  .container {
+      width: 100%;
+      height: 100%;
+      position: relative;
+
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+      display: inline-flex
+  }
+
+  /* .border {
+      border: red 1px solid;
+  } */
+
+  .card {
+      width: 550px;
+      height: 285px;
+      position: relative;
+
+  }
+
+  .top-bg {
+      width: 550px;
+      height: 285px;
+      left: 0px;
+      top: 0px;
+      background: #6943FF
+  }
+
+  .title {
+      width: 448.40px;
+      height: 38px;
+      left: 51px;
+      top: 33px;
+      position: absolute;
+      text-align: center;
+      color: white;
+      font-size: 28px;
+      font-family: Inter;
+      font-weight: 800;
+      line-height: 38px;
+      word-wrap: break-word
+  }
+
+  .nr-container {
+      /* width: 117px;
+      height: 83px;
+      border-radius: 5px;
+      border: 1px #B295FF solid;
+      display: block; */
+      margin-right: auto;
+      margin-left: auto;
+      margin-top: 30px;
+
+  }
+
+  #input-el {
+      text-align: center;
+      color: #B295FF;
+      font-size: 58px;
+      font-family: Inter;
+      font-weight: 800;
+      line-height: 24.39px;
+      word-wrap: break-word;
+      border-radius: 5px;
+
+      width: 110px;
+      height: 75px;
+      border: 1px #B295FF solid;
+      display: block;
+      margin-right: auto;
+      margin-left: auto;
+
+  }
+
+  input:focus {
+      outline: 1px #B295FF solid;
+  }
+
+  button {
+      padding: 9px 23px;
+      background: white;
+      border-radius: 5px;
+      overflow: hidden;
+      justify-content: center;
+      align-items: center;
+      display: inline-flex;
+      color: #3D3D3D;
+      font-size: 16px;
+      font-family: Inter;
+      font-weight: 500;
+      line-height: 24px;
+      word-wrap: break-word;
+  }
+
+  .bottom-bg {
+      width: 550px;
+      height: auto;
+      background: #cfcfd0;
+      padding-top: 10px;
+      padding-bottom: 20px;
+  }
+
+  .card-list {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      width: 500px;
+      height: 108px;
+      border-radius: 5px;
+      position: relative;
+      background: white;
+      overflow: hidden;
+  }
+
+  .card-title {
+      text-align: center;
+      color: #5A537B;
+      font-size: 20px;
+      font-family: Inter;
+      font-weight: 600;
+      line-height: 20px;
+      word-wrap: break-word;
+      margin-top: 15px;
+  }
+
+  .uitput {
+      text-align: center;
+      color: #353535;
+      font-size: 14px;
+      font-family: Inter;
+      font-weight: 400;
+      line-height: 20px;
+      word-wrap: break-word;
+      margin-top: 20px;
+  }
