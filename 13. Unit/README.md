@@ -3,7 +3,7 @@
 This projet is in the Frontend course of Scrimba
 Unit convertsion converts the number that you fil in into the differnt metrix below. The metrix are in length, Volume and Mass.
 Made in HTML, CSS and JavaScript
-You can find the site on<a href="https://"> Click here <a>
+You can find the site on<a href="https://dapper-haupia-aa363c.netlify.app"> Click here <a>
 Learned with Scrimba Frontend course
 
 <b>What have I learned?</b>
@@ -14,7 +14,9 @@ Learned with Scrimba Frontend course
     <li>Display you results with .innerHTML</li>
 
 </ul>
-<img width="514" alt="Screenshot_Unit Converter" src="https://">
+<img width="514" alt="Screenshot_Unit Converter" src="https://raw.githubusercontent.com/ZoePiper/Portfolio-Frontend-Scrimba/refs/heads/main/13.%20Unit/Unit_leeg.png">
+<img width="514" alt="Screenshot_Unit Converter" src="https://raw.githubusercontent.com/ZoePiper/Portfolio-Frontend-Scrimba/refs/heads/main/13.%20Unit/Unit_vol.png">
+
 
 ## About Scrimba
 
