@@ -47,15 +47,18 @@ What you have saved, make a download .txt file from this
 ## What have I learned?
 
 <ul>
-    <li>Const</li>
-    <li>JaddEventListener("click",funtion(){}</li>
-    <li>innerHTML</li>
-    <li>input.value</li>
-    <li>function parameters</li>
-    <li>Template strings</li>
-    <li>localStorage</li>
-    <li>JSON object - parse - stringify</li>
-    <li>manifest.json file for extensions</li>
-    <li>objects in arrays</li>
+    <li>import</li>
+    <li>Firebase initializeApp</li>
+    <li>Firebase getDatabase</li>
+    <li>Firebase reference</li>
+    <li>Firebase push</li>
+    <li>Firebase onValue </li>
+    <li>Firebase snapshot</li>
+    <li>Firebase snapshot.exsits()</li>
+    <li>Object -> Array</li>
+    <li>Firebase remove</li>
+     <li>Setting the view</li>
+      <li>Favicon www.favicon.io</li>
+       <li>Web application manifest</li>
 
 </ul>
