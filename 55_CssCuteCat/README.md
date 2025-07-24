@@ -1,64 +1,53 @@
-# 12. UrlLeadsTrackerApp
+# 55.CSS Cute Cat
 
 ## Project discription
 
-    The Leads Tracker exctention is now build in s progressive web app that can me run om mobile phones as a stand alone app. The use of database program Firebase to fetch realtime data. Place and remove leads in the app
+   Only using CSS and a bit of HTML to make a grafical image of a cat. 
 
 ## Live Project
 
-Click <a href="https://14leads-tracker-app.netlify.app/"> here </a> to see the app
+Click <a href="https://sparkly-gumption-97ab33.netlify.app/"> here </a> to see the app
 
 ## Visual
 
-<img width="553" alt="Screenshot Url Leads Tracker App" src="Screenshot_leadsTrackerApp.png">
+<img width="553" alt="Cute cat made from CSS" src="CSS_Cat.png">
     
 ## Design problem. 
-Connecting the database with the app
+First time programing something grafical
 
 ## Solution.
+Just going through the process. Getting familliar with custom properties. This is easy to change colors later on.
 
-import {
-getDatabase,
-ref,
-push,
-onValue,
-remove
-} from "https://www.gstatic.com/firebasejs/11.4.0/firebase-database.js"
-
-const firebaseConfig = {
-databaseURL: process.env.DATABASE_URL // fill in Api of Firebase here
-}
-
-const app = initializeApp(firebaseConfig)
-const database = getDatabase(app)
-const referenceInDB = ref(database, "leads")
+Layering forms for example for the eye's
+ background: radial-gradient(50% 50% at var(--x1) 47%, #fff 25%, #0000 0),
+        radial-gradient(50% 50% at var(--x2) 65%, #fff 12%, #0000 0),
+        radial-gradient(circle at 60% 50%, #000 40%, #0000 0), #fff;
+     
 
 ## Design process and Tools.
 
-This was a tutorial from Scrimba. Practising my HTML, CSS, JS and JSON
-source: https://scrimba.com/playlist/pkrr5S9
+This was a tutorial on Youtube. Practising my HTML and CSS
+source:  https://www.youtube.com/watch?v=4B-yudjkXRY 
+sourcecode:  https://codepen.io/alvaromontoro/pen/zxvxbBv 
 
-##Results.
-My first chrome extension
+## Results.
+My first image using only CSS. It was fun to create a design from nothing.
 
-##What's Next.
-What you have saved, make a download .txt file from this
+## What's Next.
+I say that someone made a toggle light/dark mode with css. That would be a nice challenge. But I must practice this more to get the full understanding of all the options.
 
 ## What have I learned?
 
 <ul>
-    <li>import</li>
-    <li>Firebase initializeApp</li>
-    <li>Firebase getDatabase</li>
-    <li>Firebase reference</li>
-    <li>Firebase push</li>
-    <li>Firebase onValue </li>
-    <li>Firebase snapshot</li>
-    <li>Firebase snapshot.exsits()</li>
-    <li>Object -> Array</li>
-    <li>Firebase remove</li>
-     <li>Setting the view</li>
-      <li>Favicon www.favicon.io</li>
-       <li>Web application manifest</li>
+    <li>Scale with font-size</li>
+    <li>Article as canvas</li>
+    <li>Custom properties (--*)</li>
+    <li>Layering forms with radial-gradient</li>
+    <li>Scalability and responsivenes with em, vmin, and aspect-ratio</li>
+    <li>Editing shapes </li>
+    <li>display: grid and place-items: center to center an image</li>
+    <li>clip-path to cut shapes</li>
+    <li>Layering and positioning</li>
+  
 
 </ul>
