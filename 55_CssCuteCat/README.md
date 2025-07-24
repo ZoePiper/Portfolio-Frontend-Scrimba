@@ -35,6 +35,8 @@ My first image using only CSS. It was fun to create a design from nothing.
 
 ## What's Next.
 I say that someone made a toggle light/dark mode with css. That would be a nice challenge. But I must practice this more to get the full understanding of all the options.
+Or making this one move.
+source: https://codepen.io/alvaromontoro/pen/emppzXN
 
 ## What have I learned?
 
