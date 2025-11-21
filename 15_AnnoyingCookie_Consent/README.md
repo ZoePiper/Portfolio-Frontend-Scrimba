@@ -32,18 +32,22 @@ So the first one appears after 3 seconds, and after it appears, you want the nex
 So 3 + 4 = 7 → 7000
 
 example:
+```javascript
 setTimeout(function() {
 console.log('Lima!')
 }, 3000)
+```
 
 Replace the current style using JavaScript with element.style
 example:
+```javascript
 const revealBtn = document.getElementById('reveal-btn')
 const answer = document.getElementById('answer')
 
 revealBtn.addEventListener('click', function() {
 answer.style.display = 'block'
 })
+```
 
 FormData is used to collect all the data from a form and store it in an object-like structure.
 When you click submit, you can prevent the default page reload and create a FormData object from the form.
@@ -62,10 +66,12 @@ Output = FormData {field text}
 
 You can personalize messages or process the data by using .get() with the name attribute of the input fields.
 example:
+```javascript
 const username = loginFormData.get('username');
 const password = loginFormData.get('password');
 
 console.log(`Welcome, ${username}!`);
+```
 
 ## Design process and Tools.
 
