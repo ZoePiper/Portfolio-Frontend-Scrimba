@@ -56,7 +56,7 @@ e.preventDefault(); // Prevent the form from refreshing the page
 const loginFormData = new FormData(loginForm);
 console.log(loginFormData);
 });
-    ```
+```
 
 Output = FormData {field text}
 
