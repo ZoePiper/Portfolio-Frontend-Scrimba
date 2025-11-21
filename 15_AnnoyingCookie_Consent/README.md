@@ -49,13 +49,13 @@ FormData is used to collect all the data from a form and store it in an object-l
 When you click submit, you can prevent the default page reload and create a FormData object from the form.
 
 example:
-loginForm.addEventListener('submit', function(e) {
-e.preventDefault(); // Prevent the form from refreshing the page
-
+    loginForm.addEventListener('submit', function(e) {
+    e.preventDefault(); // Prevent the form from refreshing the page
+    
     const loginFormData = new FormData(loginForm);
     console.log(loginFormData);
-
-});
+    
+    });
 
 Output = FormData {field text}
 
