@@ -13,8 +13,7 @@ You can find the site on<a href="https://golden-gaufre-916cf8.netlify.app/"> Cli
 
 ## Visual
 
-<img width="553" alt="Screenshot Annoying Cookie Consent" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/15_AnnoyingCookie_Consent/images/1stPage.png?raw=true
-">
+<img width="553" alt="Screenshot Annoying Cookie Consent" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/15_AnnoyingCookie_Consent/images/1stPage.png">
     
 ## Design problem. 
 Execute later Timer
