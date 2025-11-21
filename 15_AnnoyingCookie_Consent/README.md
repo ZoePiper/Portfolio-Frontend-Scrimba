@@ -9,8 +9,7 @@ Made in HTML, CSS and JavaScript
 
 ## Live Project
 
-You can find the site on<a href=""> Click here <a>
-Learned with Scrimba Frontend course
+You can find the site on<a href="https://golden-gaufre-916cf8.netlify.app/"> Click here <a>
 
 ## Visual
 
