@@ -14,6 +14,11 @@ You can find the site on<a href="https://golden-gaufre-916cf8.netlify.app/"> Cli
 ## Visual
 
 <img width="553" alt="Screenshot Annoying Cookie Consent" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/15_AnnoyingCookie_Consent/images/1stPage.png">
+<p>First sight of the popup modal</p>
+<img width="553" alt="Screenshot Annoying Cookie Consent" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/15_AnnoyingCookie_Consent/images/2Page.png">
+<p>Button switching</p>
+<img width="553" alt="Screenshot Annoying Cookie Consent" src="https://github.com/ZoePiper/Portfolio-Frontend-Scrimba/blob/main/15_AnnoyingCookie_Consent/images/3Page.png">
+<p>Last Page laughing prirate</p>
     
 ## Design problem. 
 Execute later Timer
